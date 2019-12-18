@@ -1,3 +1,4 @@
+/* This line be removed by git reset operation */
 #include <stdio.h>
 int main(void)
 {
